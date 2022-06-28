@@ -1,2 +1,2 @@
 # Pessoal
-Repositório dos meus projetos e exercícios de estudo
+Repositório dos meus projetos e exercícios de estudo EM LINGUAGEM C
